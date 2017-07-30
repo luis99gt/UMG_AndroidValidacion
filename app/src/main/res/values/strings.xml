@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidExamen</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="password">Password</string>
+    <string name="verificar_password">Verificar Password</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
